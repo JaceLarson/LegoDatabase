@@ -1,10 +1,7 @@
 /*
 CS3550
-GROUP 7 Lego Database Scripts
-Andrew Hammon
+Lego Database Scripts
 Jace Larson
-Luke Munk
-Michael Bradshaw
 */
 
 IF (OBJECT_ID('dbo.FK_GROUP7_Sets_ThemeID', 'F') IS NOT NULL)
