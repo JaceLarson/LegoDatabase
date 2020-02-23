@@ -1,11 +1,6 @@
 /*
 	CS3550
-GROUP 7 Lego Database Scripts
-Andrew Hammon
-Jace Larson
-Luke Munk
-Michael Bradshaw
-
+	Jace Larson
 */
 
 /*
